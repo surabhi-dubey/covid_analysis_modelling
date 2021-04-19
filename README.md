@@ -11,7 +11,11 @@
 - sklearn
 
 ## Project Motivation
-For this project, I was interestested in using Novel Coronavirus 2019 dataset. I was interested in analysing this data as  wanted to analyse this data as I was 
+With currently over 140 million confirmed cases and above 3 million deaths worldwide, lockdowns and social distancing have become the new norm. The socio-economic disruption of millions of lives has been unprecedented, with its long-term ramifications yet to be fully understood. 
+Hence, it is extremely critical to analyze the spread of the virus for 3 reasons:
+- Understanding its worldwide impact: how different countries/regions were affected and how they responded. 
+- Enabling the government and concerned authorities to respond appropriately: by modeling the spread of the virus and providing projections for resources required. 
+- Prevention - Creation of processes and systems to handle such unforeseen circumstances in the future.
 
 
 
