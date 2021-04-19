@@ -21,13 +21,15 @@ Hence, it is extremely critical to analyze the spread of the virus for 3 reasons
 ## File Description
 - There is a notebook available here to showcase work related to the above questions - code.ipynb
 - Markdown cells are used to assist in walking through the thought process for individual steps.
-- There is a requirements.txt file which contains all the pre-installed libraries used in the project. 
+- There is a requirements.txt file which contains all the pre-installed libraries used in the project.
+- Dataset Location: input/covid_19_data.csv 
 
 ## Link to the Blog Post on Medium
 - The main findings of the code can be found at the post available here [https://surabhisd443.medium.com/study-of-the-pandemic-that-has-changed-our-lives-forever-9c3b2bfe4bdd]
 
 ## Dataset
 - Novel Coronavirus 2019- [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
+- Also located in the repo in input/covid_19_data.csv
 
 ## Licensing and Acknowledgements
 - Must give credit to the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University for the data. 
