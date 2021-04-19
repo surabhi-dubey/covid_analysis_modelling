@@ -27,7 +27,7 @@ Hence, it is extremely critical to analyze the spread of the virus for 3 reasons
 - The main findings of the code can be found at the post available here [https://surabhisd443.medium.com/study-of-the-pandemic-that-has-changed-our-lives-forever-9c3b2bfe4bdd]
 
 ## Licensing and Acknowledgements
-- Must give credit to the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University for the data. Link here - [https://github.com/CSSEGISandData/COVID-19]
+- Must give credit to the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University for the data. 
 - You can find the Licensing for the data and other descriptive information at the Kaggle link available here - [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
 - This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering. Copyright Johns Hopkins University 2020.
 
