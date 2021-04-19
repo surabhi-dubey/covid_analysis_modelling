@@ -23,7 +23,7 @@ Hence, it is extremely critical to analyze the spread of the virus for 3 reasons
 - Markdown cells are used to assist in walking through the thought process for individual steps.
 - There is a requirements.txt file which contains all the pre-installed libraries used in the project. 
 
-## Results
+## Link to the Blog Post on Medium
 - The main findings of the code can be found at the post available here [https://surabhisd443.medium.com/study-of-the-pandemic-that-has-changed-our-lives-forever-9c3b2bfe4bdd]
 
 ## Dataset
